@@ -5,8 +5,8 @@ using UnityEngine;
 public class OrbitController : MonoBehaviour
 {
     // Set Values
-    private float initialOrbitSize = 7;
-    private float shrinkSpeed = 16;
+    private float initialOrbitSize = 8;
+    private float shrinkSpeed = 26;
     private bool readyToGo = false;
 
     // Holder Values
